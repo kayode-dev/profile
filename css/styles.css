@@ -123,6 +123,7 @@ p{
 .nav-link{
     color: #34975b;
     margin-left: 20px;
+    font-weight: 500;
 }
 
 .navbar-toggler{
